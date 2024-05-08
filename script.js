@@ -20,11 +20,11 @@ const playPunch = () => {
 }
 
 const playSword = () => {
-    var audio = new Audio("punch.mp3")
+    var audio = new Audio("sword.mp3")
     audio.play()
 }
 
 const playMagic = () => {
-    var audio = new Audio("punch.mp3")
+    var audio = new Audio("magic.mp3")
     audio.play()
 }
